@@ -1,1 +1,1 @@
-![header](./YKZIRD.svg)
+![header](docs/header.svg)
